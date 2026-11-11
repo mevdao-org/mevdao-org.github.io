@@ -16,11 +16,13 @@ Then see [what a rescue can still save](what-a-rescue-can-save.html). Staked tok
 
 Signed something odd lately? [Check the address for an EIP-7702 delegation](eip-7702-delegation-check.html) before anything else.
 
+Before anyone touches the wallet, go through [what to have ready for a rescue](before-a-sweeper-rescue.html).
+
 If you'd rather not do it yourself, read about our [sweeper bot rescue service](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service).
 
 ## If you build bots
 
-Bundles that never land are their own special kind of pain. Our [Flashbots bundle debugging list](flashbots-bundle-not-included.html) is the order we check things in.
+Bundles that never land are their own special kind of pain. Our [Flashbots bundle debugging list](flashbots-bundle-not-included.html) is the order we check things in. Sniping launches? Run [three token checks before your bot buys](sniper-bot-token-checks.html).
 
 On the main blog, the pieces people ask about most are how [Ethereum sniper bots work with Flashbots](https://mevdao.org/blog/how-ethereum-sniper-bots-work-same-block-buys-with-flashbots-and-the-real-risks) and what to know before paying for [custom MEV bot development](https://mevdao.org/blog/custom-mev-bot-development-what-to-know-before-you-hire). If someone on YouTube offered you a free bot, please read about the [Remix MEV bot scam](https://mevdao.org/blog/the-youtube-mev-bot-scam-how-the-remix-contract-drains-your-eth) first.
 
