@@ -18,6 +18,8 @@ Signed something odd lately? [Check the address for an EIP-7702 delegation](eip-
 
 Before anyone touches the wallet, go through [what to have ready for a rescue](before-a-sweeper-rescue.html). Got an ENS name stuck in there? See [what to do about an ENS name in a hacked wallet](ens-name-in-a-hacked-wallet.html).
 
+Lost tokens to a bad signature rather than a leaked key? Here's [which approvals to revoke after a drainer](approvals-after-a-drainer.html), in the order we do it.
+
 If you'd rather not do it yourself, read about our [sweeper bot rescue service](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service).
 
 ## If you build bots
