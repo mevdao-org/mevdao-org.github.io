@@ -1,2 +1,3 @@
-# mevdao-org.github.io
-MEV DAO field notes: sweeper bots, EIP-7702 delegations and Flashbots bundles. Main site: https://mevdao.org
+# MEV DAO field notes
+
+Source for https://mevdao-org.github.io, short practical notes from [MEV DAO](https://mevdao.org) on sweeper bots, EIP-7702 delegations and Flashbots bundles.

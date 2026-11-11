@@ -1,0 +1,8 @@
+title: MEV DAO field notes
+description: Practical notes on sweeper bots, EIP-7702 delegations and Flashbots bundles from MEV DAO.
+url: https://mevdao-org.github.io
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author: MEV DAO
