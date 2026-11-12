@@ -22,6 +22,8 @@ An airdrop just showed up for the drained address? Read [how to claim an airdrop
 
 Not sure how the attacker got your seed in the first place? Here's [where to look for the leak](how-the-seed-leaked.html) before you set up the new wallet.
 
+Tokens stuck on Base, Arbitrum or Optimism? Read [why the mainnet rescue trick fails on an L2](hacked-wallet-on-an-l2.html) and what we do instead.
+
 Still got a Uniswap position in the drained wallet? Here's [what to do with an LP position in a hacked wallet](lp-position-in-a-hacked-wallet.html) before you try to pull the liquidity.
 
 Lost tokens to a bad signature rather than a leaked key? Here's [which approvals to revoke after a drainer](approvals-after-a-drainer.html), in the order we do it.
