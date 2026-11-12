@@ -20,6 +20,8 @@ Before anyone touches the wallet, go through [what to have ready for a rescue](b
 
 An airdrop just showed up for the drained address? Read [how to claim an airdrop in a hacked wallet](airdrop-in-a-hacked-wallet.html) before you send it any gas.
 
+Not sure how the attacker got your seed in the first place? Here's [where to look for the leak](how-the-seed-leaked.html) before you set up the new wallet.
+
 Lost tokens to a bad signature rather than a leaked key? Here's [which approvals to revoke after a drainer](approvals-after-a-drainer.html), in the order we do it.
 
 It's a Trust Wallet that got hit? Read [what changes with a sweeper bot on Trust Wallet](sweeper-bot-on-trust-wallet.html). And if a stranger offers to get it all back, ask them [the questions we'd ask a wallet recovery service](vetting-a-wallet-recovery-service.html) first.
