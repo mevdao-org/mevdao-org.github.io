@@ -36,7 +36,7 @@ If you'd rather not do it yourself, read about our [sweeper bot rescue service](
 
 ## If you build bots
 
-Bundles that never land are their own special kind of pain. Our [Flashbots bundle debugging list](flashbots-bundle-not-included.html) is the order we check things in. Sniping launches? Run [three token checks before your bot buys](sniper-bot-token-checks.html). Thinking of paying someone to build one? Here's [what to sort out before you hire an MEV developer](before-you-hire-an-mev-developer.html).
+Bundles that never land are their own special kind of pain. Our [Flashbots bundle debugging list](flashbots-bundle-not-included.html) is the order we check things in. Sniping launches? Run [three token checks before your bot buys](sniper-bot-token-checks.html). Thinking of paying someone to build one? Here's [what to sort out before you hire an MEV developer](before-you-hire-an-mev-developer.html). Running liquidations on Aave? Start with [four checks before you run a liquidation bot](liquidation-bot-first-checks.html).
 
 On the main blog, the pieces people ask about most are how [Ethereum sniper bots work with Flashbots](https://mevdao.org/blog/how-ethereum-sniper-bots-work-same-block-buys-with-flashbots-and-the-real-risks) and what to know before paying for [custom MEV bot development](https://mevdao.org/blog/custom-mev-bot-development-what-to-know-before-you-hire). If someone on YouTube offered you a free bot, please read about the [Remix MEV bot scam](https://mevdao.org/blog/the-youtube-mev-bot-scam-how-the-remix-contract-drains-your-eth) first, or run our [five minute check on free YouTube MEV bots](free-mev-bot-video-check.html).
 
