@@ -14,7 +14,7 @@ Start with the [sweeper bot checklist](sweeper-bot-checklist.html). It tells you
 
 Then see [what a rescue can still save](what-a-rescue-can-save.html). Staked tokens, NFTs and unclaimed airdrops are often still there.
 
-Signed something odd lately? [Check the address for an EIP-7702 delegation](eip-7702-delegation-check.html) before anything else.
+Signed something odd lately? [Check the address for an EIP-7702 delegation](eip-7702-delegation-check.html) before anything else. Found one and wondering whether to clear it? Here's [when revoking a 7702 delegation helps and when it doesn't](revoke-7702-delegation.html).
 
 Before anyone touches the wallet, go through [what to have ready for a rescue](before-a-sweeper-rescue.html). Got an ENS name stuck in there? See [what to do about an ENS name in a hacked wallet](ens-name-in-a-hacked-wallet.html).
 
