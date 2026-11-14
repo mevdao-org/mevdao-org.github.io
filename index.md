@@ -20,7 +20,7 @@ Before anyone touches the wallet, go through [what to have ready for a rescue](b
 
 An airdrop just showed up for the drained address? Read [how to claim an airdrop in a hacked wallet](airdrop-in-a-hacked-wallet.html) before you send it any gas.
 
-Not sure how the attacker got your seed in the first place? Here's [where to look for the leak](how-the-seed-leaked.html) before you set up the new wallet.
+Not sure how the attacker got your seed in the first place? Here's [where to look for the leak](how-the-seed-leaked.html) before you set up the new wallet. Only some of your accounts got emptied? Here's [how to tell whether the seed or a single key leaked](seed-or-key-leaked.html).
 
 Tokens stuck on Base, Arbitrum or Optimism? Read [why the mainnet rescue trick fails on an L2](hacked-wallet-on-an-l2.html) and what we do instead.
 
