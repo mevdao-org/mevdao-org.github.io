@@ -28,7 +28,7 @@ Still got a Uniswap position in the drained wallet? Here's [what to do with an L
 
 Leaked key belongs to an owner on a team Safe? Here's [what to do when one of your Safe signers gets hacked](safe-signer-compromised.html).
 
-Lost tokens to a bad signature rather than a leaked key? Here's [which approvals to revoke after a drainer](approvals-after-a-drainer.html), in the order we do it.
+Lost tokens to a bad signature rather than a leaked key? Here's [which approvals to revoke after a drainer](approvals-after-a-drainer.html), in the order we do it. Some of what they took was USDT or USDC? See [whether stolen stablecoins can still be frozen](stolen-usdt-freeze.html) and how to check.
 
 It's a Trust Wallet that got hit? Read [what changes with a sweeper bot on Trust Wallet](sweeper-bot-on-trust-wallet.html). And if a stranger offers to get it all back, ask them [the questions we'd ask a wallet recovery service](vetting-a-wallet-recovery-service.html) first.
 
